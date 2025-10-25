@@ -5,7 +5,7 @@ workflows:
       node: 20.19.0
       java: 21
       vars:
-        PACKAGE_NAME: "io.ionic.movieses"
+        PACKAGE_NAME: "flutter.developer.fluxer"
     scripts:
       - name: Install dependencies
         script: |
